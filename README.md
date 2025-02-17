@@ -1,5 +1,7 @@
 # Location-and-Camera-Tracker 🔍🚩
 
+![License](https://img.shields.io/badge/License-Apache--2.0-green) ![License](https://img.shields.io/badge/License-ASLv1.0%20by%20Rafasha%20Alfiandi-red)
+
 Proyek ini dibuat untuk kebutuhan eksplorasi dan pembelajaran dengan tujuan mempelajari pelacakan lokasi dan kamera secara teknis. 😅
 
 ## Deskripsi
